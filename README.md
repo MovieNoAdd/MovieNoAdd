@@ -69,13 +69,7 @@ Building intelligent applications, experimenting with AI agents, and turning ide
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj3232&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 <p align="center">
 <i>"Building today what I imagined yesterday."</i>
